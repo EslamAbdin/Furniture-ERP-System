@@ -14,8 +14,3 @@ Advanced SQL Server ERP solution with thousands of simulated historical data. Im
 <a href="https://www.linkedin.com/in/nada-nasser-b9399531b/"><b>Nada Nasser</b></a>
 </p>
 
-<p align="center">
-<i>"Together We Code"</i>
-</p>
-
-Specializing in High-Performance Relational Systems and Enterprise Logic.
